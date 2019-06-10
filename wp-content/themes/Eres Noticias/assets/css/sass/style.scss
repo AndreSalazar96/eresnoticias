@@ -1,0 +1,35 @@
+/*
+ Theme Name:     Grupo Eres Noticias
+ Theme URI:      https://www.elegantthemes.com/gallery/divi/
+ Description:    Divi Child Theme
+ Author:         Elegant Themes 
+ Author URI:     https://www.elegantthemes.com
+ Template:       Divi
+ Version:        1.0.0
+*/
+ 
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+
+@import "compass";
+@import "compass/reset";
+
+//Here we important our partials
+@import "_partials/variables";
+@import "_partials/typography";
+@import "_partials/mixins";
+@import "_partials/menu-style";
+@import "_partials/divi-sections";
+@import "_partials/text-config";
+@import "_partials/images";
+@import "_partials/contact-form";
+@import "_partials/btn-scroll-top";
+@import "_partials/header";
+@import "_partials/footer";
+@import "_partials/@medias";
+@import "_partials/404";
+@import "_partials/map-pointer-contact"; 
+@import "_partials/login";
+@import "_partials/mas-informacion"; 

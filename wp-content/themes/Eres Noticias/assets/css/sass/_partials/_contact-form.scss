@@ -1,0 +1,27 @@
+/*Contac forom newsletter*/
+
+.newsletter-form-container{
+    display: flex;
+    justify-content: center;
+}
+
+.et_bloom_form_header.split.et_bloom_header_text_dark{
+    display: none;
+}
+
+.et_bloom .et_bloom_optin_1 .et_bloom_form_content{
+    background-color: #a5a5a5 !important;
+}
+
+button#button-newsletter-id{
+    margin: 10px;
+    cursor: pointer;
+}
+
+
+
+.newsletter-form-container{
+    input{
+        margin: 10px; 
+    }
+}
